@@ -26,6 +26,7 @@ C. Resnet 18 loading model weights before training and training only the last tr
 1. Single random crop 
 2. Five crop
 
+
 <p align="center">
   <strong>[A]Resnet18 without pre-loading weights and training all layers</strong>
     </p>
