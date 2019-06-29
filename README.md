@@ -1,5 +1,5 @@
 ### 50.021 Artificial Intelligence
-#  Transfer Learning and Comparison of Different Learning Methods
+#  Transfer Learning and Comparison of Different Learning Strategy
 Fine Tunning of Neural Networks . 
 Aim is to retrain the resnet18 to just classify input image to two different classes, Outdoor and indoor images.
 ##### 3 Different types of ways to go about training the model
