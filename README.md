@@ -1,6 +1,6 @@
-#  Transfer Learning and Comparison of Different Learning Methods
 ### 50.021 Transfer Learning
-## Fine Tunning of Neural Networks
+#  Transfer Learning and Comparison of Different Learning Methods
+Fine Tunning of Neural Networks . 
 Aim is to retrain the resnet18 to just classify input image to two different classes, Outdoor and indoor images.
 ##### 3 Different types of transfer learn that will be compared
 A. Resnet18 without pre-loading weights and training all layers.  
