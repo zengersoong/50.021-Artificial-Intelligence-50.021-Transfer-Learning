@@ -31,16 +31,16 @@ C. Resnet 18 loading model weights before training and training only the last tr
   <strong>[A]Resnet18 without pre-loading weights and training all layers</strong>
     </p>
 
-<p align="left">
-    <img src="plotsA/trainAcc_A.png" alt="Image" width="432px" height="228px" />
-    <img src="plotsA/trainLoss_A.png" alt="Image" width="432px" height="228px" />
+<p align="center">
+    <img src="plotsA/trainAcc_A.png" alt="Image" width="288px" height="155px" />
+    <img src="plotsA/trainLoss_A.png" alt="Image" width="288px" height="155px" />
 </p>
-<p align="right">
-    <img src="plotsA/validAcc_A.png" alt="Image" width="432px" height="228px" />
-    <img src="plotsA/validLoss_A.png" alt="Image" width="432px" height="228px" />
+<p align="center">
+    <img src="plotsA/validAcc_A.png" alt="Image" width="288px" height="155px" />
+    <img src="plotsA/validLoss_A.png" alt="Image" width="288px" height="155px" />
 </p>
 
-<p align="left">
+<p align="center">
   <i> 
     [Best Epoch] Validation Loss: 0.12245642230717918  <br>
     [Best Epoch] Validation Accuracy: 0.7766776677667767 <br>
@@ -53,17 +53,17 @@ C. Resnet 18 loading model weights before training and training only the last tr
   <strong>[B]Resnet 18 loading the model weights and training all layers</strong>
     </p>
 
-<p align="left">
-    <img src="plotsB/trainAcc_B.png" alt="Image" width="432px" height="228px" />
-    <img src="plotsB/trainLoss_B.png" alt="Image" width="432px" height="228px" />
+<p align="center">
+    <img src="plotsB/trainAcc_B.png" alt="Image"  width="288px" height="155px" />
+    <img src="plotsB/trainLoss_B.png" alt="Image" width="288px" height="155px" />
 </p>
-<p align="right">
-    <img src="plotsB/validAcc_B.png" alt="Image" width="432px" height="228px" />
-    <img src="plotsB/validLoss_B.png" alt="Image" width="432px" height="228px" />
+<p align="center">
+    <img src="plotsB/validAcc_B.png" alt="Image"  width="288px" height="155px" />
+    <img src="plotsB/validLoss_B.png" alt="Image" width="288px" height="155px" />
 </p>
 </p>
 
-<p align="left">
+<p align="center">
   <i> 
 [Best Epoch] Validation Loss: : 0.09365081723996646 <br>
 [Best Epoch] Validation Accuracy: 0.8305830583058306 <br>
@@ -76,16 +76,16 @@ Test Accuracy: 0.8508771929824561 <br>
   <strong>[C]Resnet 18 loading model weights before training and training only the last trainable layer</strong>
     </p>
 
-<p align="left">
-    <img src="plotsC/trainAcc_C.png" alt="Image" width="432px" height="228px" />
-    <img src="plotsC/trainLoss_C.png" alt="Image" width="432px" height="228px" />
+<p align="center">
+    <img src="plotsC/trainAcc_C.png" alt="Image"  width="288px" height="155px" />
+    <img src="plotsC/trainLoss_C.png" alt="Image"  width="288px" height="155px" />
 </p>
-<p align="right">
-    <img src="plotsC/validAcc_C.png" alt="Image" width="432px" height="228px" />
-    <img src="plotsC/validLoss_C.png" alt="Image" width="432px" height="228px" />
+<p align="center">
+    <img src="plotsC/validAcc_C.png" alt="Image" width="288px" height="155px" />
+    <img src="plotsC/validLoss_C.png" alt="Image"  width="288px" height="155px" />
 </p>
 </p>
-<p align="left">
+<p align="center">
   <i> 
     [Best Epoch] Validation Loss:0.07681695472682663 <br>
     [Best Epoch] Validation Accuracy:0.8822882288228823 <br>
