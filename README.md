@@ -22,6 +22,10 @@ C. Resnet 18 loading model weights before training and training only the last tr
 1. Stochastic Gradient Descent with Learning Rate = 1e-3, Momentum=0.9
 2. Cosine Annealing Warm Restarts for variable learning rates, T_max = 10 
 
+#### Data Augmentation Options For learning step
+1. Single random crop 
+2. Five crop
+
 <p align="center">
   <strong>[A]Resnet18 without pre-loading weights and training all layers</strong>
     </p>
